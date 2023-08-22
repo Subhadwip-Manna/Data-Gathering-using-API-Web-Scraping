@@ -5,7 +5,7 @@ API Data Gathering:
 
 APIs are a structured way to access and retrieve data from various online sources. Here's how to gather data using APIs:
 
-Identify Suitable APIs: Find APIs that provide the data you need. Common examples include social media APIs (Twitter, Facebook), weather APIs (OpenWeatherMap), financial market APIs (Alpha Vantage), and more.
+## Identify Suitable APIs: ##### Find APIs that provide the data you need. Common examples include social media APIs (Twitter, Facebook), weather APIs (OpenWeatherMap), financial market APIs (Alpha Vantage), and more.
 
 Register and Obtain API Key: Create an account on the API provider's website, and obtain an API key or authentication token. This key is often used to identify and authenticate your requests.
 
